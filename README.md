@@ -1,8 +1,13 @@
 # Clay Door Master
 Project demonstrating API (Web API with EF using MYSQL) that implements CRUD for Entities like:
+
 1. Doors
+
 2. Users
-+ get information about bindinigs Doors-Books that reflect access users to the doors
+
+3. Get information about bindinigs Doors-Books that reflect access users to the doors
+
+# PreRequisites:
 
 * MySQL:
 First create database schema named test
